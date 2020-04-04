@@ -1,7 +1,7 @@
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
-CREATE DATABASE IF NOT EXISTS `t4boxtools` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `t4boxtools`;
+CREATE DATABASE IF NOT EXISTS `DBgethref` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `DBgethref`;
 CREATE TABLE `0xfindurl` (
   `id` int(11) NOT NULL,
   `uid` text NOT NULL,
